@@ -10,4 +10,4 @@ Utilizo em aula a plataforma [Alura](htps://www.alura.com.br)
 
 maria.rosa.alves10@escola.pr.gov.br
 
-![](https://tenor.com/pt-BR/view/asaprocky-rocky-tylerthecreator-tyler-gif-gif-7656482969145562926)
+![]https://media1.tenor.com/m/akFKsdS_1y4AAAAd/asaprocky-rocky.gif
