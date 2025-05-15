@@ -6,6 +6,6 @@ Sou aluna do componente curricular de programação pela rede estadual do Paran�
 
 Utilizo em aula a plataforma [Alura](htps://www.alura.com.br)
 
-###Você pode entrar em contato comigo:
+##Você pode entrar em contato comigo:
 
 maria.rosa.alves10@escola.pr.gov.br
